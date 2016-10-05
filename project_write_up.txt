@@ -1,0 +1,16 @@
+Our movie is about two cars racing each other. It is the sequel of Furious 007. 
+One of the car crashes half way through the movie. The other one goes on to win the race. 
+But revenge is a thing in this world. The crashed car reverses and zooms forward towards the winner and crashes on it, becoming the ultimate winner of this race. 
+Tadaaa!!!
+
+This movie uses quite a few of the effects that we created in HW7. We used the zoom effect for the first image of the 2 cars, and for the image of the race track. We used the fade effect in the first portion of the movie where the 2 cars are at the start line. 
+
+We also made use of red tint when the car crashes for the first time to create a boom effect. Subsequently, as the first car crashes onto the other car, we slowed down the progression of frames to create a slow-down effect to focus on the revenge. 
+
+Our filming code contains the code to maneuver the robot that was filming the race the entire time.
+
+Our acting code contains the code for the entire race - all turns, forward, backward etc. In this code, we saved the scene into a gif file - technically doing what we were supposed to do in the performance code. 
+
+And editing code - contains the code for all the special effects. 
+
+The performance code and acting code merging is the deviation we made in this assignment. Also, we used iMovie to compile all the frames into a movie, and have also added music, sound effects and the title page using the same. Hence, we didn't include the performance code.
